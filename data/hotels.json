@@ -2,46 +2,55 @@
   {
     "id": 1,
     "placesId": 1,
-    "name": "Sajek Hotel"
+    "name": "Sajek Hotel",
+    "img": "https://i.ibb.co/wJbS0SS/Rectangle-28.png"
   },
   {
     "id": 2,
     "placesId": 1,
-    "name": "Sajek Hotel"
+    "name": "Sajek Hotel",
+    "img": "https://i.ibb.co/wJbS0SS/Rectangle-28.png"
   },
   {
     "id": 3,
     "placesId": 1,
-    "name": "Sajek Hotel"
+    "name": "Sajek Hotel",
+    "img": "https://i.ibb.co/wJbS0SS/Rectangle-28.png"
   },
   {
     "id": 4,
     "placesId": 2,
-    "name": "Sreemongol Hotel"
+    "name": "Sreemongol Hotel",
+    "img": "https://i.ibb.co/Jd6zY6K/Rectangle-26.png"
   },
   {
     "id": 5,
     "placesId": 2,
-    "name": "Sreemongol Hotel"
+    "name": "Sreemongol Hotel",
+    "img": "https://i.ibb.co/Jd6zY6K/Rectangle-26.png"
   },
   {
     "id": 6,
     "placesId": 2,
-    "name": "Sreemongol Hotel"
+    "name": "Sreemongol Hotel",
+    "img": "https://i.ibb.co/Jd6zY6K/Rectangle-26.png"
   },
   {
     "id": 7,
     "placesId": 3,
-    "name": "Sundorbon Hotel"
+    "name": "Sundorbon Hotel",
+    "img": "https://i.ibb.co/GJ2YQZs/Rectangle-27.png"
   },
   {
     "id": 8,
     "placesId": 3,
-    "name": "Sundorbon Hotel"
+    "name": "Sundorbon Hotel",
+    "img": "https://i.ibb.co/GJ2YQZs/Rectangle-27.png"
   },
   {
     "id": 9,
     "placesId": 3,
-    "name": "Sundorbon Hotel"
+    "name": "Sundorbon Hotel",
+    "img": "https://i.ibb.co/GJ2YQZs/Rectangle-27.png"
   }
 ]
