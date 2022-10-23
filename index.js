@@ -6,19 +6,19 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const hotels = require('./data/places.json');
+const places = require('./data/places.json');
 
 app.get('/', (req, res) => {
   res.send('Travel Guru Server is running');
 });
 
-app.get('/hotels', (req, res) => {
-  res.send(hotels);
+app.get('/places', (req, res) => {
+  res.send(places);
 });
 
-app.get('/hotels/:id', (req, res) => {
+app.get('/places/:id', (req, res) => {
   const id = req.params.id;
-  const hotel = hotels.find(ht => ht.id === parseInt(id));
+  const hotel = places.find(ht => ht.id === parseInt(id));
   res.send(hotel);
 });
 

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "placesId": 1,
+    "name": "Sajek Hotel"
+  },
+  {
+    "id": 2,
+    "placesId": 1,
+    "name": "Sajek Hotel"
+  },
+  {
+    "id": 3,
+    "placesId": 1,
+    "name": "Sajek Hotel"
+  },
+  {
+    "id": 4,
+    "placesId": 2,
+    "name": "Sreemongol Hotel"
+  },
+  {
+    "id": 5,
+    "placesId": 2,
+    "name": "Sreemongol Hotel"
+  },
+  {
+    "id": 6,
+    "placesId": 2,
+    "name": "Sreemongol Hotel"
+  },
+  {
+    "id": 7,
+    "placesId": 3,
+    "name": "Sundorbon Hotel"
+  },
+  {
+    "id": 8,
+    "placesId": 3,
+    "name": "Sundorbon Hotel"
+  },
+  {
+    "id": 9,
+    "placesId": 3,
+    "name": "Sundorbon Hotel"
+  }
+]
