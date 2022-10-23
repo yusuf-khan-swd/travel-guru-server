@@ -1,11 +1,12 @@
 const express = require('express');
 const cors = require('cors');
-const port = process.env.PORT || 5000;
+
 const app = express();
+const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const hotels = require('./data/hotels.json');
+const hotels = require('./data/places.json');
 
 app.get('/', (req, res) => {
   res.send('Travel Guru Server is running');
