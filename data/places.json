@@ -3,18 +3,21 @@
     "id": 1,
     "placesId": 1,
     "name": "Sajek",
-    "img": "https://i.ibb.co/frG8kNN/Sajek.png"
+    "img": "https://i.ibb.co/frG8kNN/Sajek.png",
+    "details": "Sajek valley is known for its natural environment and is surrounded by mountains, dense forest, and grassland hill tracks. Many small rivers flow through the mountains among which the Kachalong and the Machalong are notable. On the way to Sajek valley, one has to cross the Mayni range and the Mayni river. Sajek Tripuri Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District. The valley is 2,000 feet (610 m) above sea level. Sajek Tripuri Valley is known as the Queen of Hills & Roof of Rangamati."
   },
   {
     "id": 2,
     "placesId": 2,
-    "name": "Sreemongol",
-    "img": "https://i.ibb.co/n33rjQc/Sreemongol.png"
+    "name": "Sreemangal",
+    "img": "https://i.ibb.co/n33rjQc/Sreemongol.png",
+    "details": "Sreemangal is often referred to as the 'tea capital' of Bangladesh, and is most famous for its tea fields. Other than tea, the rubber, pineapple, wood, betel, and lemon industries also exist in the upazila. It has overall 163 tea plantations. The tea of highest quality is produced here. It is said the name Sreemangal (or Srimangal) is named after Sri Das and Mangal Das; two brothers who settled on the banks of the Hail Haor. A copper plate of Raja Marundanath from the 11th century was found in Kalapur. During an excavation at Lamua, an ancient statue of Ananta Narayan was dug out. In 1454, the Nirmai Shiva Bari was built and still stands today. Srimangal thana was established in 1912. The central town later became a pourashava in 1935. In 1963, two peasants were killed by police officers which kicked off the Balishira peasant riots. During the Bangladesh Liberation War of 1971, the Pakistani army reached Sreemangal on 30 April setting houses on fire and committing atrocities against women. The East Pakistan Rifles camp and Wapda office premises were among the two mass killing sites. Two mass graves remain in Bharaura with a memorial in North Bharaura."
   },
   {
     "id": 3,
     "placesId": 2,
-    "name": "Sundorbon",
-    "img": "https://i.ibb.co/s98wsWx/sundorbon.png"
+    "name": "Sundarban",
+    "img": "https://i.ibb.co/s98wsWx/sundorbon.png",
+    "details": "Sundarbans is a mangrove area in the delta formed by the confluence of the Padma, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans the area from the Baleswar River in Bangladesh's division of Khulna to the Hooghly River in India's state of West Bengal. The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India’s Sundarbans World Heritage site inscribed in 1987. The site is intersected by a complex network of tidal waterways, mudflats and small islands of salt-tolerant mangrove forests, and presents an excellent example of ongoing ecological processes. The area is known for its wide range of fauna, including 260 bird species, the Bengal tiger and other threatened species such as the estuarine crocodile and the Indian python."
   }
 ]
